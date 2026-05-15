@@ -1,8 +1,8 @@
 {
   "name": "Video Editor Pro TTS",
   "short_name": "VideoPro",
-  "description": "Video Editor dengan fitur TTS Bersih dan Kamera",
-  "start_url": "./index.html",
+  "description": "Video Editor dengan TTS Bersih dan Kamera",
+  "start_url": "https://sapipasar.github.io/Ttsvideokamera/",
   "display": "standalone",
   "background_color": "#0a0f1e",
   "theme_color": "#00e5ff",
@@ -12,7 +12,7 @@
       "src": "icon_512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
     }
   ]
 }
